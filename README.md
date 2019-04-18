@@ -14,6 +14,7 @@ npm run dev
 # build electron application for production
 npm run build
 
+If you install the win10 64 touch screen and frequent multiple clicks, the program will crash.
 
 ```
 
